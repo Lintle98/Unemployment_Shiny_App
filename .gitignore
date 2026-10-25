@@ -1,0 +1,17 @@
+# RStudio / R session files
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# Deployment records (shinyapps.io)
+rsconnect/
+
+# Not part of the code
+backup_v*/
+*.pptx
+~$*
+.Rproj.user
+.httr-oauth
+.DS_Store
+.quarto
